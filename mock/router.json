@@ -1,0 +1,4 @@
+{
+    "/api/position": "/list",
+    "/api/getuser": "/getuser"
+}
